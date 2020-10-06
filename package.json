@@ -27,5 +27,9 @@
     "type": "git",
     "url": "git+https://github.com/SAMARTH2222/abc123.git"
   },
+  "bugs": {
+    "url": "https://github.com/SAMARTH2222/abc123/issues"
+  },
+  "homepage": "https://github.com/SAMARTH2222/abc123#readme",
   "description": ""
 }
