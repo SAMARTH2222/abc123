@@ -6,7 +6,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "ask smapi compile-acdl --acdl-file-path ~/Downloads/inValid.acdl"
   },
-  "author": "abc",
   "dependencies": {
     "@types/node": "^14.0.27",
     "ask-smapi-sdk": "^1.2.2",
@@ -26,6 +25,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SAMARTH2222/abc123.git"
+  },
+  "author": {
+    "name": "Samarth Kanakkumar Dave"
   },
   "bugs": {
     "url": "https://github.com/SAMARTH2222/abc123/issues"
