@@ -23,5 +23,9 @@
     "node-sass": "^4.14.1",
     "uglify-js": "^3.11.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAMARTH2222/abc123.git"
+  },
   "description": ""
 }
